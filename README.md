@@ -1,0 +1,2 @@
+# BodenfeuchteLoRaWAN
+BodenfeuchteSensor üer LoRaWAN
